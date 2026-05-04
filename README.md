@@ -30,7 +30,7 @@ Responsive portfolio built using HTML, CSS, and JavaScript.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri-harsha15&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sri-harsha15)
 
 ---
 
