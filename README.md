@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sri Harsha
 
-🎓 BCA Graduate| 💻 Full Stack Developer | 🌐 Web Developer
+🎓 BCA Graduate| Aspiring Full Stack Developer | Web Developer
 
 ---
 
